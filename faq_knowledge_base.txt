@@ -4,7 +4,6 @@ A: Visit the ICT center or use the 'Forgot Password' link on the portal login pa
 Q: What is the resumption date for the next semester?
 A: Resumption is scheduled for September 10th, but check the official bulletin for updates.
 
-
 Q: Who do I contact for hall maintenance issues?
 A: Report via ResoBridge or directly to the Hall Porters.
 
@@ -13,6 +12,112 @@ A: Log into the student portal, click on “Course Registration” to see the su
 
 Q: What is the school dress code policy?
 A: Students must be corporately dressed Monday to Friday. No casual wear allowed during lectures.
+
+Q: What is ResoBridge?
+A: ResoBridge is a smart resource allocation platform designed to streamline the complaint management and task assignment system in universities.
+
+Q: How can I submit a complaint?
+A: Log in to your ResoBridge account, click on 'Submit Complaint', fill in the details, and submit.
+
+Q: What happens after I submit a complaint?
+A: The complaint is categorized and routed to the appropriate department for resolution. You can track the progress in your dashboard.
+
+Q: How long does it take to resolve issues?
+A: Resolution times vary depending on the nature of the complaint, but urgent issues are prioritized.
+
+Q: Can I track my complaint?
+A: Yes, after submission, you can track your complaint under the 'My Complaints' tab.
+
+Q: Who sees my complaint?
+A: Only authorized personnel in the respective departments and admins can view your complaint.
+
+Q: Is my data safe?
+A: Yes, ResoBridge uses industry-standard encryption and data protection protocols.
+
+Q: What kind of issues can I report?
+A: You can report issues related to maintenance, IT, electricity, plumbing, cafeteria, internet, and other campus services.
+
+Q: Can I report anonymously?
+A: Currently, all complaints require login to ensure proper tracking and accountability.
+
+Q: Who manages ResoBridge?
+A: It is managed by the university's ICT and maintenance teams with AI support for efficiency.
+
+Q: What is the response time for plumbing issues?
+A: Plumbing issues are typically addressed within 24 to 48 hours, depending on staff availability.
+
+Q: Is there a mobile app for ResoBridge?
+A: Currently, ResoBridge is accessible through the web platform. Mobile app support is in development.
+
+Q: How do I reset my password?
+A: Go to the login page, click 'Forgot Password', and follow the instructions to reset it.
+
+Q: Can I change my email address?
+A: No, your university-assigned email is linked to your account and cannot be changed.
+
+Q: How do I suggest a feature?
+A: Send feature suggestions through the 'Feedback' section on your dashboard.
+
+Q: Why hasn't my complaint been resolved?
+A: Resolution may be delayed due to resource constraints. You can follow up through your dashboard.
+
+Q: Can I escalate my complaint?
+A: Yes, if unresolved after 72 hours, you'll see an 'Escalate' button in the complaint details.
+
+Q: What does 'Under Review' status mean?
+A: It means your complaint has been received and is being evaluated for assignment.
+
+Q: What does 'Assigned' status mean?
+A: It indicates that your complaint has been routed to the appropriate personnel.
+
+Q: What if I made a mistake in my complaint?
+A: You can edit a complaint within the first 30 minutes after submission.
+
+Q: Are all complaints treated equally?
+A: Complaints are categorized and prioritized based on urgency and impact.
+
+Q: What is an intelligence report?
+A: It is an AI-generated summary of complaint trends, suggested actions, and preventive measures.
+
+Q: Where can I view AI reports?
+A: Admins can view intelligence reports under the 'Insights' tab.
+
+Q: Can ResoBridge predict future problems?
+A: Yes, the AI analyzes patterns and can suggest preventive actions.
+
+Q: What happens if the system is offline?
+A: All entries are saved locally and synced when the system comes back online.
+
+Q: Can I delete my complaint?
+A: No, but you can mark it as resolved or withdrawn under 'My Complaints'.
+
+Q: How do I contact support?
+A: Use the 'Help & Support' tab or email support@resobridge.edu
+
+Q: Can staff use ResoBridge too?
+A: Yes, staff can use the admin portal to manage and respond to complaints.
+
+Q: Does ResoBridge integrate with university systems?
+A: Yes, it can integrate with university directories, HR, and facilities systems.
+
+Q: Can I get notifications?
+A: Yes, enable notifications in your profile settings to get updates via email or SMS.
+
+Q: How do I log out?
+A: Click on your profile icon in the top-right corner and select 'Log Out'.
+
+Q: What if I can't access the site?
+A: Check your internet connection or contact IT support.
+
+Q: Can I submit complaints in bulk?
+A: Not currently, but batch support is planned in future updates.
+
+Q: What is the AI layer?
+A: It is an internal assistant that analyzes complaints and suggests data-driven actions to admins.
+
+Q: What is the chatbot for?
+A: The chatbot answers student questions based on an FAQ knowledge base and AI responses.
+
 
 
 
