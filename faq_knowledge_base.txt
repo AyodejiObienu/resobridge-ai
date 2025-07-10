@@ -1,0 +1,271 @@
+Q: How do I reset my student portal password?
+A: Visit the ICT center or use the 'Forgot Password' link on the portal login page.
+
+Q: What is the resumption date for the next semester?
+A: Resumption is scheduled for September 10th, but check the official bulletin for updates.
+
+Q: Who do I contact for hall maintenance issues?
+A: Report via ResoBridge or directly to the Hall Porters.
+
+Q: How do I check my course registration status?
+A: Log into the student portal, click on “Course Registration” to see the summary.
+
+Q: What is the school dress code policy?
+A: Students must be corporately dressed Monday to Friday. No casual wear allowed during lectures.
+
+Q: What is ResoBridge?
+A: ResoBridge is a smart resource allocation platform designed to streamline the complaint management and task assignment system in universities.
+
+Q: How can I submit a complaint?
+A: Log in to your ResoBridge account, click on 'Submit Complaint', fill in the details, and submit.
+
+Q: What happens after I submit a complaint?
+A: The complaint is categorized and routed to the appropriate department for resolution. You can track the progress in your dashboard.
+
+Q: How long does it take to resolve issues?
+A: Resolution times vary depending on the nature of the complaint, but urgent issues are prioritized.
+
+Q: Can I track my complaint?
+A: Yes, after submission, you can track your complaint under the 'My Complaints' tab.
+
+Q: Who sees my complaint?
+A: Only authorized personnel in the respective departments and admins can view your complaint.
+
+Q: Is my data safe?
+A: Yes, ResoBridge uses industry-standard encryption and data protection protocols.
+
+Q: What kind of issues can I report?
+A: You can report issues related to maintenance, IT, electricity, plumbing, cafeteria, internet, and other campus services.
+
+Q: Can I report anonymously?
+A: Currently, all complaints require login to ensure proper tracking and accountability.
+
+Q: Who manages ResoBridge?
+A: It is managed by the university's ICT and maintenance teams with AI support for efficiency.
+
+Q: What is the response time for plumbing issues?
+A: Plumbing issues are typically addressed within 24 to 48 hours, depending on staff availability.
+
+Q: Is there a mobile app for ResoBridge?
+A: Currently, ResoBridge is accessible through the web platform. Mobile app support is in development.
+
+Q: How do I reset my password?
+A: Go to the login page, click 'Forgot Password', and follow the instructions to reset it.
+
+Q: Can I change my email address?
+A: No, your university-assigned email is linked to your account and cannot be changed.
+
+Q: How do I suggest a feature?
+A: Send feature suggestions through the 'Feedback' section on your dashboard.
+
+Q: Why hasn't my complaint been resolved?
+A: Resolution may be delayed due to resource constraints. You can follow up through your dashboard.
+
+Q: Can I escalate my complaint?
+A: Yes, if unresolved after 72 hours, you'll see an 'Escalate' button in the complaint details.
+
+Q: What does 'Under Review' status mean?
+A: It means your complaint has been received and is being evaluated for assignment.
+
+Q: What does 'Assigned' status mean?
+A: It indicates that your complaint has been routed to the appropriate personnel.
+
+Q: What if I made a mistake in my complaint?
+A: You can edit a complaint within the first 30 minutes after submission.
+
+Q: Are all complaints treated equally?
+A: Complaints are categorized and prioritized based on urgency and impact.
+
+Q: What is an intelligence report?
+A: It is an AI-generated summary of complaint trends, suggested actions, and preventive measures.
+
+Q: Where can I view AI reports?
+A: Admins can view intelligence reports under the 'Insights' tab.
+
+Q: Can ResoBridge predict future problems?
+A: Yes, the AI analyzes patterns and can suggest preventive actions.
+
+Q: What happens if the system is offline?
+A: All entries are saved locally and synced when the system comes back online.
+
+Q: Can I delete my complaint?
+A: No, but you can mark it as resolved or withdrawn under 'My Complaints'.
+
+Q: How do I contact support?
+A: Use the 'Help & Support' tab or email support@resobridge.edu
+
+Q: Can staff use ResoBridge too?
+A: Yes, staff can use the admin portal to manage and respond to complaints.
+
+Q: Does ResoBridge integrate with university systems?
+A: Yes, it can integrate with university directories, HR, and facilities systems.
+
+Q: Can I get notifications?
+A: Yes, enable notifications in your profile settings to get updates via email or SMS.
+
+Q: How do I log out?
+A: Click on your profile icon in the top-right corner and select 'Log Out'.
+
+Q: What if I can't access the site?
+A: Check your internet connection or contact IT support.
+
+Q: Can I submit complaints in bulk?
+A: Not currently, but batch support is planned in future updates.
+
+Q: What is the AI layer?
+A: It is an internal assistant that analyzes complaints and suggests data-driven actions to admins.
+
+Q: What is the chatbot for?
+A: The chatbot answers student questions based on an FAQ knowledge base and AI responses.
+
+Q: What are the Times Higher Education (THE) World University Rankings?
+A: The THE Rankings evaluate over 2,000 research-intensive universities globally, using a set of 18 performance indicators grouped into five main categories: Teaching, Research Environment, Research Quality, International Outlook, and Industry Income. They provide a balanced and transparent method to benchmark institutions.
+
+Q: What are the main criteria of THE World University Rankings?
+A: THE divides its scoring into five pillars:
+- **Teaching** (Learning environment – ~30%)
+- **Research** (Volume, income & reputation – ~30%)
+- **Citations** (Research influence – ~30%)
+- **International outlook** (Staff, students, research – ~7.5%)
+- **Industry income** (Innovation – ~2.5%)
+:contentReference[oaicite:2]{index=2}
+
+Q: How is the ‘Teaching’ score calculated?
+A: Teaching is evaluated with:
+- 15% based on a reputational survey
+- 4.5% student-to-staff ratio
+- 6% doctorate production
+- 2.25% earnings per academic
+- 2.25% PhD-to-Bachelor award ratios  
+(Total 30%)  
+:contentReference[oaicite:3]{index=3}
+
+Q: What about the ‘Research’ pillar?
+A: Research is measured by:
+- 18% reputation survey
+- 6% research income
+- 6% publication volume per staff  
+(Total 30%)  
+:contentReference[oaicite:4]{index=4}
+
+Q: How do citations influence ranking?
+A: Citations, weighted at 30%, measure normalized research impact using global databases like Web of Science, reflecting academic influence.  
+:contentReference[oaicite:5]{index=5}
+
+Q: What factors count for International Outlook?
+A: This 7.5% component includes:
+- 2.5% proportion of international students
+- 2.5% international staff ratio
+- 2.5% international research collaboration  
+:contentReference[oaicite:6]{index=6}
+
+Q: What does Industry Income measure?
+A: Industry income (2.5%) captures the university’s innovation and knowledge transfer by assessing research funding from industry relative to faculty numbers.  
+:contentReference[oaicite:7]{index=7}
+
+Q: Are there exclusion criteria for THE Rankings?
+A: Yes. Universities can be excluded if they:
+- Publish fewer than 1,000 relevant papers in five years
+- Offer no undergraduate degrees
+- Report insufficient data  
+:contentReference[oaicite:8]{index=8}
+
+Q: How are THE scores calculated overall?
+A: THE uses standardized Z-scores for each metric, combines them into the five pillars, then creates an overall score by weighted summation. Missing data is imputed conservatively.  
+:contentReference[oaicite:9]{index=9}
+
+Q: How many semesters are in an academic session at Covenant University?
+A: There are two semesters, named Alpha and Omega 
+admissions.covenantuniversity.edu.ng
++6
+covenantuniversity.edu.ng
++6
+convocation.covenantuniversity.edu.ng
++6
+.
+
+Q: What undergraduate colleges does Covenant University have?
+A: Four colleges:
+
+Leadership & Development Studies
+
+Science & Technology
+
+Engineering
+
+Management & Social Sciences 
+
+Q: What is Covenant University?
+A: Covenant University is a leading private Christian university in Ota, Ogun State, Nigeria. It was established on October 21, 2002, by Living Faith Church Worldwide and is affiliated with the Winners' Chapel.
+
+Q: What is Covenant University's mission?
+A: The mission of Covenant University is "to create knowledge and restore the dignity of the black man through a Human Development and Total Man Concept-driven curriculum."
+
+Q: What is Covenant University best known for?
+A: Covenant University is known for academic excellence, discipline, entrepreneurial development, and its strong emphasis on leadership and spiritual values.
+
+Q: Is Covenant University accredited?
+A: Yes. Covenant University is accredited by the National Universities Commission (NUC) of Nigeria and recognized internationally by various academic and research bodies.
+
+Q: What courses are offered at Covenant University?
+A: Covenant University offers courses in Engineering, Computer Science, Management, Social Sciences, Biological Sciences, Physical Sciences, Architecture, and Business. It has four colleges:
+- College of Engineering
+- College of Leadership and Development Studies
+- College of Management and Social Sciences
+- College of Science and Technology
+
+Q: How is Covenant University ranked globally?
+A: Covenant University has consistently ranked among the top universities in Nigeria and Africa. It is the highest-ranked Nigerian university in the Times Higher Education (THE) World University Rankings for several years.
+
+Q: What is the student population of Covenant University?
+A: Covenant University hosts over 9,000 students, with annual intakes of several thousand undergraduates and a growing number of postgraduate students.
+
+Q: Does Covenant University have postgraduate programs?
+A: Yes. Covenant University offers Master's and Doctoral degrees across multiple disciplines, supported by a vibrant research culture and academic mentorship.
+
+Q: What are the admission requirements at Covenant University?
+A: Applicants must:
+- Score at least 180 in UTME
+- Pass the Covenant University Scholastic Aptitude Screening (CUSAS)
+- Provide at least 5 credit passes including English and Mathematics in WAEC/NECO
+
+Q: What is the school’s dress code?
+A: Covenant University has a strict dress code that enforces formal and decent dressing for all students, in line with its core values and Christian ethics.
+
+Q: Does Covenant University provide accommodation?
+A: Yes. Covenant University is a fully residential institution. All students live on campus in designated halls of residence.
+
+Q: What are the school fees at Covenant University?
+A: School fees vary by program but typically range between ₦900,000 – ₦1.2 million per academic session. This includes tuition, accommodation, and other charges.
+
+Q: What is the school’s spiritual life like?
+A: The university integrates spiritual development into academics. Students participate in chapel services, spiritual formations, and weekly Covenant Hour of Prayer sessions.
+
+Q: Who is the Chancellor of Covenant University?
+A: Dr. David Oyedepo, founder of Living Faith Church Worldwide, is the Chancellor of Covenant University.
+
+Q: Does Covenant University support entrepreneurship?
+A: Yes. The university has a Centre for Entrepreneurial Development Studies (CEDS) that ensures all students graduate with at least one entrepreneurial skill.
+
+Q: What are some of Covenant University’s research achievements?
+A: Covenant University has contributed extensively to research in ICT, science, and innovation, often ranking high in research productivity among Nigerian universities.
+
+Q: Is Covenant University open to international students?
+A: Yes. Covenant University accepts qualified international applicants, subject to fulfilling academic and visa requirements.
+
+Q: Does Covenant University have a strong alumni network?
+A: Yes. The university has a growing network of alumni who are leaders in various fields including technology, business, academia, and public service.
+
+Q: What is Covenant University’s motto?
+A: The motto of Covenant University is “Raising a New Generation of Leaders.”
+
+Q: What are Covenant University’s core values?
+A: Faith, Integrity, Possibility Mentality, Capacity Building, Responsibility, Diligence, and Sacrifice.
+
+
+
+
+
+
+
+
